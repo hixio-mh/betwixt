@@ -25,7 +25,9 @@
   "homepage": "https://github.com/kdzwinel/betwixt",
   "dependencies": {
     "chalk": "^1.1.1",
-    "http-mitm-proxy": "^0.6.0",
+ snyk-fix-e62e7163d02c058de47dfcb6c8917cba
+"http-mitm-proxy": "^0.9.0",
+master
     "istextorbinary": "^2.0.0",
     "minimist": "^1.2.0"
   },
